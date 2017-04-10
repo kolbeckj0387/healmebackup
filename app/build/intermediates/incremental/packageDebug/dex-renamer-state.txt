@@ -1,0 +1,7 @@
+#Tue Apr 04 10:35:15 CDT 2017
+base.0=D\:\\Student Data\\Downloads\\HealMePhoney-master\\HealMePhoney-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6e24c701a6f4e9899869bfd5a9c566f90b89928
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Student Data\\Downloads\\HealMePhoney-master\\HealMePhoney-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a9885f6f38b034c3f6ea5b2ce40838bab095c6a\\classes.dex
+base.1=D\:\\Student Data\\Downloads\\HealMePhoney-master\\HealMePhoney-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_1a9885f6f38b034c3f6ea5b2ce40838bab095c6a
+file.0=D\:\\Student Data\\Downloads\\HealMePhoney-master\\HealMePhoney-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e6e24c701a6f4e9899869bfd5a9c566f90b89928\\classes.dex

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="577787126809"
+    token="260677220343445545"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2283" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="255" />
+    <task
+        name="verifier"
+        duration="10" />
+
+    <artifact
+        location="D:\Student Data\Downloads\HealMePhoney-master\HealMePhoney-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="2806804800166085"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Student Data\Downloads\HealMePhoney-master\HealMePhoney-master\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
